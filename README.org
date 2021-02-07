@@ -1,3 +1,8 @@
+Note to this fork: I slightly modified the case to use threaded rivet nuts for a cleaner look. 
+See the folder case/openscad_atreus62_with_rivets/ for details.
+
+I want to thank to the original developer (technomancy) for the great work.
+
 * Atreus Keyboard
 
 This repository is [[https://gitlab.com/technomancy/atreus][moved to GitLab]].
